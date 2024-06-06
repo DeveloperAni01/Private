@@ -5,3 +5,10 @@ const display = () => {
 }
 
 display()
+
+
+const add = (m,n) => {
+    return m + n
+}
+
+console.log(add(5,2)); 
